@@ -13,7 +13,7 @@ Wagner Nicacio: wagner.nicacio99@gmail.com<br>
 Este documento contém a especificação do projeto do banco de dados easyBus 
 <br>e motivação da escolha realizada. <br>
 
-> A empresa "Devcom Projetos" visa colaborar com desenvolvimento de projetos para uma sociedade melhor. Sabendo-se dos desafios para gerenciar projetos dentro de uma empresa e visando unir as informações relativas a funcionários, departamentos e projetos em um mesmo local, ficamos motivados com o desenvolvimento deste sistema. O Sistema "Devcom" tem como objetivo gerenciar todas as informações ao desenvolvimento das atividades de projetos em diversas localidades do país. Para realizar suas operações adequadamente e empresa necessita que sistema que armazene informações relativas aos Projetos, Departamentos e Empregados, além de também armazenar dados sobre  Dependentes e Históricos de Salário dos empregados. O sistema deverá gerar um conjunto de relatórios que por sua vez atenderá os anseios da empresa em questão.
+>  Vendo os problemas do transporte público atual e considerando a dificuldade de uma empresa de organizar as linhas de ônibus, em relação ao horário, a quantidade de passageiros, e a quantidade de ônibus disponíveis, o “easyBus” ajudará as empresas responsáveis pelo transporte público a organizar de uma maneira mais eficiente as suas linhas de ônibus, ajudando tanto os passageiros quanto a empresa que por conta da melhora na lotação dos seus transportes terá um maior lucro por conta de mais passageiros interessados em seus serviços.
  
 
 ### 3.MINI-MUNDO Novo<br>
