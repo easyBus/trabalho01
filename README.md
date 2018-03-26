@@ -7,7 +7,7 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 Integrantes do grupo<br>
 João Sessa: joaosessatavares@gmail.com<br>
 Wagner Nicacio: wagner.nicacio99@gmail.com<br>
-
+ 
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados easyBus 
