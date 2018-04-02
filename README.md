@@ -13,7 +13,7 @@ Wagner Nicacio: wagner.nicacio99@gmail.com<br>
 Este documento contém a especificação do projeto do banco de dados easyBus 
 <br>e motivação da escolha realizada. <br>
 
-> O sistema proposto para “easyBus” conterá as informações aqui detalhadas. Da Empresa serão armazenados o número de linhas, o número de ônibus normais disponíveis para a circulação, o número de ônibus articulados disponíveis para a circulação, e os horários de intervalo dos motoristas, como o almoço. Das Linhas serão armazenados o número delas, a média do horário de viagem de acordo com o horário e a média da quantidade de passageiros por ônibus de acordo com o horário. Os ônibus não tem linhas específicas e podem ser realocados de acordo com a necessidade da população, podem estar circulando no máximo 10 ônibus a menos do que a frota total, para caso haja algum imprevisto em alguma frota ativa. É importante destacar que o sistema deverá levar em consideração os intervalos e horários de almoço dos motoristas.
+> Vendo os problemas do transporte público atual e considerando a dificuldade de uma empresa de organizar as linhas de ônibus, em relação ao horário, a quantidade de passageiros, e a quantidade de ônibus disponíveis, o “easyBus” ajudará as empresas responsáveis pelo transporte público a organizar de uma maneira mais eficiente as suas linhas de ônibus, ajudando tanto os passageiros quanto a empresa que por conta da melhora na lotação dos seus transportes terá um maior lucro por conta de mais passageiros interessados em seus serviços. O resultado do uso desse sistema será um arquivo com os horários que os ônibus devem iniciar as viagens para o uso mais eficientes das linhas
  
 
 ### 3.MINI-MUNDO Novo<br>
