@@ -43,8 +43,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
-    a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
-    b) Crie uma lista com os 10 principais relatórios que poderão ser obtidos por meio do sistema proposto!
+    Qual o melhor horário para que meus ônibus circulem? 
+    Quais ônibus estão circulando em cada linha atualmente?
+    Quais modelos de ônibus minha empresa tem e quantos de cada um deles eu tenho?
     
 >## Marco de Entrega 01 em: (24/03/2018)<br>
 
