@@ -32,7 +32,7 @@ Neste ponto a codificação não e necessária, somente as ideias de telas devem
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discipint/trabalho01/blob/master/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
+![PDF do Protótipo Balsamiq feito para easyBus](https://github.com/easyBus/trabalho01/blob/master/arquivos/easyBus.pdf?raw=true "Empresa Devcom")
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
